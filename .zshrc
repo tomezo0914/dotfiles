@@ -186,7 +186,7 @@ esac
 
 ## Load RVM into a shell session *as a function*
 #
-[[ -s "/Users/tome/.rvm/scripts/rvm" ]] && source "/Users/tome/.rvm/scripts/rvm"
+[[ -s "/Users/${USER}/.rvm/scripts/rvm" ]] && source "/Users/${USER}/.rvm/scripts/rvm"
 
 ## load user .zshrc configuration file
 #
