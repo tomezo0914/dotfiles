@@ -15,7 +15,7 @@ Bundle 'vim-scripts/vcscommand.vim'
 
 filetype plugin indent on
 
-" vundle - plugin management ---
+" vundle - plugin management end ---
 
 syntax on
 set backspace=2
